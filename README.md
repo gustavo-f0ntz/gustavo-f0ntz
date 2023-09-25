@@ -4,6 +4,8 @@
 
 ![Gustavo Fontes GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-f0ntz&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-f0ntz&layout=compact)
+
 ### Tecnologias que eu utilizo/estudo
 
 <div style="display: inline_block"> <br/>
