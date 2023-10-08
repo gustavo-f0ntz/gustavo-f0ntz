@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Gustavo Fontes 🖐️
 
-![Header](./image/github-header-image.png)
+![Gustavo Fontes](./github-image.png)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_f0ntz/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fontes-b4747322a/)
 
@@ -15,8 +16,10 @@
 
 ### Ambientes de Desenvolvimento que utilizo:
 
+[![IDE](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)
 
 
 <div> <br>
 
 Jovem estudante de Tecnologia da Informação, apaixonado por tecnologia, ciência e programação.
+
