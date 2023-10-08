@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Gustavo Fontes 🖐️
 
-![Gustavo Fontes](./github-image.png)
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_f0ntz/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fontes-b4747322a/)
 
@@ -22,4 +20,5 @@
 <div> <br>
 
 Jovem estudante de Tecnologia da Informação, apaixonado por tecnologia, ciência e programação.
+
 
