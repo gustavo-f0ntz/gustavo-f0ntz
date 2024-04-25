@@ -21,6 +21,6 @@
 
 Jovem estudante de Tecnologia da Informação, apaixonado por tecnologia, ciência e programação.
 
-Tenho 18 anos, Curso Tecnologia da Informação na Universidade Federal Rural do Semiárido, e possuo forte interesse pelo desenvolvimento back-end.
+Tenho 19 anos, Curso Tecnologia da Informação na Universidade Federal Rural do Semiárido, e possuo forte interesse pelo desenvolvimento back-end.
 
 
