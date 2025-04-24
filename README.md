@@ -1,26 +1,68 @@
-### Olá! Eu sou o Gustavo Fontes 🖐️
+<div align="center">
+  <h1>👋 Olá! Eu sou o Gustavo Fontes</h1>
+  <p>Estudante de TI | Apaixonado por Desenvolvimento | Explorando  Infraestrutura, Redes e Cibersegurança</p>
 
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo_f0ntz/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fontes-b4747322a/)
+---
 
-![Gustavo Fontes GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-f0ntz&show_icons=true&theme=dark)
+## 🧠 Sobre Mim
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-f0ntz&layout=compact)
+🎓 Estudante de **Tecnologia da Informação** na **UFERSA**  
+📚 No 4º período, focado em **POO, Banco de Dados e Java**  
+💡 Apaixonado por aprender, criar e resolver problemas com tecnologia
 
+🌐 Interessado em **Redes** e **Infraestrutura**, buscando domínio prático  
+🛡️ Conhecimento básico em **Cibersegurança**, com forte interesse em aprofundamento  
+📈 Sempre buscando evolução contínua, dentro e fora da sala de aula
 
-### Tecnologias que eu utilizo/estudo
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,py)](https://skillicons.dev)
+## 🛠️ Habilidades Técnicas
 
-### Ambientes de Desenvolvimento que utilizo:
+**💻 Linguagens:**  
+- Python, Java, C  
+- Programação Orientada a Objetos (POO)  
+- Estruturas de dados e lógica de programação
 
-[![IDE](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)
+**🗄️ Banco de Dados:**  
+- SQL, modelagem relacional  
+- Experiência com MySQL e PostgreSQL  
+- Consultas eficientes e normalização
 
+**🧰 Ferramentas:**  
+- Git & GitHub, VSCode, Linux, Postman  
+- Familiaridade com terminal, versionamento e APIs REST
 
-<div> <br>
+---
 
-Jovem estudante de Tecnologia da Informação, apaixonado por tecnologia, ciência e programação.
+## 🚀 Projetos e Aprendizados
 
-Tenho 19 anos, Curso Tecnologia da Informação na Universidade Federal Rural do Semiárido, e possuo forte interesse pelo desenvolvimento back-end.
+🔧 **Projetos Acadêmicos:**  
+- Criação de sistemas simples com foco em organização de dados e lógica aplicada  
+- APIs RESTful como prática de back-end
 
+🌱 **Aprendizados Atuais:**  
+- Avançando em **Java**, padrões de projeto e princípios SOLID  
+- Explorando fundamentos de **redes de computadores**  
+- Dando os primeiros passos sólidos em **segurança da informação**
 
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-f0ntz&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-f0ntz&layout=compact&theme=default" />
+</div>
+
+---
+
+## 📫 Como Falar Comigo
+
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-kesley-de-fontes-nunes-b4747322a/)  
+📧 fontes.gustavo519@hotmail.com 
+
+---
+
+> “Não é sobre ser o melhor. É sobre estar melhor do que ontem.” 🚀
